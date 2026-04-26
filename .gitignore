@@ -1,0 +1,18 @@
+# SQL Server
+*.bak
+*.mdf
+*.ldf
+
+# Power BI
+*.pbit
+*.pbip
+*.pbir
+*.zip
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Temp Files
+*.tmp
+~$*
