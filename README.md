@@ -80,8 +80,8 @@ This project provides a comprehensive analysis of customer shopping behavior to 
 
 ## 📫 Contact & Connect
 - **GitHub**: [vishwjit04](https://github.com/vishwjit04)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
+- **LinkedIn**: [Vishwjit](https://www.linkedin.com/in/vishwjit)
+- **Email**: [vishwjit04@gmail.com](mailto:vishwjit04@gmail.com)
 
 ---
 *Created by Vishwjit as part of a Data Analysis Portfolio.*
